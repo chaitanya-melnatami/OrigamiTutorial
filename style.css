@@ -1,0 +1,29 @@
+img {
+    width: 1000px;
+}
+body {
+    text-align: center;
+    font-family: 'Arial, sans-serif';
+    font-size: 20px;
+    background: azure;
+    color: purple;
+}
+a {
+    color:blueviolet;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Helvetica';
+    font-weight: bold;
+}
+
+footer {
+    font-size: 15px;
+    color:purple;
+    font-weight: bold;
+}
+
+footer a {
+    color:blueviolet;
+    font-family: 'Helvetica';
+    font-size: 15px;
+}
